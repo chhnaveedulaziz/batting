@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'batting_avg/cli'
+BattingAvg::CLI.start
